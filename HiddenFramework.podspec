@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "HiddenFramework"
+  spec.name         = "HiddenFrameworkSamy"
   spec.version      = "0.0.1"
   spec.summary      = "Testing upload a pod with hidden source code"
   spec.description  = <<-DESC
