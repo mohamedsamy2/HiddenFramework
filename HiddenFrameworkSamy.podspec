@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
 Testing uploading framework with hidden source code
                    DESC
-  spec.homepage     = "https://google.com"
+  spec.homepage     = "https://facebook.com"
   spec.license      = { :type => "MD", :file => "license" }
   spec.author             = { "MohamedSamy" => "abc@gmail.com" }
   spec.ios.deployment_target = '15.2'
